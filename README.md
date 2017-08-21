@@ -1,7 +1,8 @@
 # forestadmin-test
 Example project to test ForestAdmin + Express.js + Sequelize  
 `HasMany`, `BelongsTo` and `BelongsToMany` relationships.  
-In this case: `User` and `Post` have one-to-many association (A single user can have multiple posts). `Post` and `Tag` have many-to-many association (A single post can have multiple tags and a single tag can belong to multiple posts).  
+In this case: `User` and `Post` have one-to-many association (A single user can have multiple posts).  
+`Post` and `Tag` have many-to-many association (A single post can have multiple tags and a single tag can belong to multiple posts).  
 # Try it
 1. Head to https://www.forestadmin.com/ and register
 2. Choose Express + Sequelize stack
